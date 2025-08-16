@@ -13,7 +13,7 @@ function App() {
       <Features/>
       <VideoEditor/>
       <Cta/>
-    </div>
+    </div>//
   );
 }
 
